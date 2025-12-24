@@ -12,3 +12,4 @@ cellpose==3.0.8
 natsort==8.4.0
 roifile==2024.5.24
 fastremap==1.15.0
+torch>=2.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
